@@ -29,4 +29,4 @@
 
 # Books
 
-- Calculus 10th edition, H. Anton (Single variable calculus)
+- Calculus 10th edition, H. Anton (Single and multivariable calculus)
