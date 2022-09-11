@@ -1,4 +1,6 @@
-# Browsers
+# Software
+
+## Browsers
 
 * [Librewolf](https://librewolf.net)
 * [Pale moon](https://www.palemoon.org)
@@ -9,16 +11,20 @@
 * [Lynx](https://lynx.invisible-island.net)
 * [w3m](http://w3m.sourceforge.net)
 
-# Mail clients
+## Mail clients
 
 * [Alpine](https://alpineapp.email)
 * [Neomutt](https://github.com/neomutt/neomutt)
 * [eMail](https://github.com/deanproxy/eMail)
 
-# IRC clients
+## IRC clients
 
-# RSS readers
+## RSS readers
 
-# Alternatives for famous programs
+## Alternatives for famous programs
 
 - sudo: [doas](https://github.com/slicer69/doas)
+
+# Books
+
+- Calculus 10th edition, H. Anton (Single variable calculus)
