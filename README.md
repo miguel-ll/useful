@@ -25,6 +25,8 @@
 
 - sudo: [doas](https://github.com/slicer69/doas)
 
+-----------------------------------------------------------------------------
+
 # Books
 
 - Calculus 10th edition, H. Anton (Single variable calculus)
