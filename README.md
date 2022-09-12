@@ -17,10 +17,18 @@
 * [Neomutt](https://github.com/neomutt/neomutt)
 * [eMail](https://github.com/deanproxy/eMail)
 
-## IRC clients
+## General purpose software:
 
-## RSS readers
-
+* [Soon.](?) (IRC client)
+* [Soon.](?) (RSS reader)
+* [dwm](https://dwm.suckless.org) (Window manager and costumization)
+* [sxiv](https://github.com/muennich/sxiv) (Image viewer)
+* [GIMP](https://www.gimp.org) (Image editor)
+* [Soon.](?) (Video editor)
+* [mpv](https://mpv.io) (Video player)
+* [OBS Studio](https://obsproject.com) (Video recorder)
+* [Audacity](?) (Audio editor)
+ 
 ## Alternatives for famous programs
 
 - sudo: [doas](https://github.com/slicer69/doas)
