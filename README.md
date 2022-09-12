@@ -56,3 +56,4 @@
 # Books
 
 - Calculus 10th edition, H. Anton (Single and multivariable calculus)
+- Advanced Engineering Mathematics, Erwin Kreyszig (Numerical methods)
