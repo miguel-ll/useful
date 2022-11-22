@@ -23,20 +23,20 @@
 
 * [Soon.](?) (IRC client)
 * [Soon.](?) (RSS reader)
-* [dwm](https://dwm.suckless.org) (Window manager and costumization)
+* [dwm](https://dwm.suckless.org) (Window manager)
 * [sxiv](https://github.com/muennich/sxiv) (Image viewer)
 * [GIMP](https://www.gimp.org) (Image editor)
+* [Soon.](?) (Image Editor)
 * [Soon.](?) (Video editor)
 * [mpv](https://mpv.io) (Video player)
 * [OBS Studio](https://obsproject.com) (Video recorder)
+* [Soon.](?) (Video recorder)
 * [Audacity](?) (Audio editor)
 * [Singularity](?) (Whiteboard)
-* [Excalidraw](?) (Whiteboard)
+* [Soon.](?) (Whiteboard)
 * [Libreoffice](https://www.libreoffice.org) (Word processor)
 * [zathura](?) (PDF viewer)
-* [pdftotext](?) (PDF to text)
 * [groff](?) (LaTeX alternative)
-* [LaTeX Beamer](?) (Slide creator)
  
 ## Alternatives for famous programs
 
@@ -45,8 +45,7 @@
 ## Solutions for the web
 
 - [wiby.me](wiby.me) (Search engine)
-- [based.cooking](https://based.cooking) (Cooking)
+- [based.cooking](https://based.cooking) (Recipes)
 - [libgen](libgen.rs) (PDFs)
-- [Soon.](?) (Wikipedia alternative)
 - [wttr](wttr.in) (Weather)
 - [Open Street Maps](https://www.openstreetmap.org) (Maps)
